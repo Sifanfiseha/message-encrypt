@@ -10,7 +10,10 @@ body {
     padding: 0.5rem;
     height: 100vh;
     font-size: 16px;
-    font-family: sans-serif;
+    font-family: "Hanken Grotesk", serif;
+}
+h1 {
+    text-align: center;
 }
 .container {
     display: flex;
@@ -18,7 +21,7 @@ body {
     gap: 1rem;
 }
 input {
-    min-width: 300px;
+    min-width: 80%;
     border-radius: 0.5rem;
     background-color: #ffb3c1;
     border: none;
