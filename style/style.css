@@ -84,4 +84,5 @@ button {
     border-radius: 0.5rem;
     background-color: #22223b;
     font-size: 1rem;
+    cursor: pointer;
 }
